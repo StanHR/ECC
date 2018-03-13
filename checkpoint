@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ghost/Documents/ecrn/ECR-0.0001-2conv-basic.model"
+all_model_checkpoint_paths: "/home/ghost/Documents/ecrn/ECR-0.0001-2conv-basic.model"
